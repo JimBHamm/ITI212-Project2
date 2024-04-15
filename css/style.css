@@ -1,0 +1,35 @@
+table
+{
+    /* This formats the table and how it's laid out */
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body
+{
+    /* Sets the page background color */
+    background-color: tan;
+}
+
+input[type="button"]
+{
+    /* This is how our button appears */
+    width: 100%;
+    padding: 20px 40px;
+    background-color: indianred;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="text"]
+{
+    /* This is how our input box appears */
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid black;
+}
